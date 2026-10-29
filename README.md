@@ -63,3 +63,4 @@ int main() {
 <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/273c69e0-da86-4a16-80bf-c2f82a7466b1" />
 
 # RESULT
+The program is executed successfully
